@@ -1,5 +1,3 @@
-Berikut rangkuman yang siap langsung disimpan sebagai file **`rangkuman-javascript.md`** di VS Code:
-
 ````md
 # Rangkuman JavaScript Dasar
 
