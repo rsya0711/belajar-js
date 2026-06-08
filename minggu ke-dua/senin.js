@@ -95,12 +95,12 @@ let e = 20;
 
 console.log ((d * 2 > 10) && (e % 2 == 0)) // true ( karena d * 2 lebih besar dari 10 dan e % 2 sama dengan 0)
 
-let f = 5;
-let g = 13;
+let f = 10;
+let g = 10;
 
-console.log ((f * 2 > 10) && (g % 2 == 0)) // false ( karena f * 2 tidak lebih besar dari 10 dan g % 2 tidak sama dengan 0)
+console.log ((f * 2 > 10) && (g % 2 == 0)) // true ( karena f * 2 lebih besar dari 10 dan g % 2 sama dengan 0)
 
 let h = 20;
-let i = 15;
+let i = 10;
 
-console.log ((h * 2 > 10) && (i % 2 == 0)) // false ( karena h * 2 lebih besar dari 10 tetapi i % 2 tidak sama dengan 0)
+console.log ((h * 2 > 10) && (i % 2 == 0)) // true ( karena h * 2 lebih besar dari 10 dan i % 2 sama dengan 0)
