@@ -143,7 +143,7 @@ let percobaan = 0;
 for (let i = 1; i <= 50; i++){
     percobaan++; 
         if (i === angkaRahasia) {
-        console.log(`Angka yang ditemukan: ${i}`);
+        console.log(`Angka yang ditemukan: ${angkaRahasia}`);
         console.log(`Jumlah percobaan: ${percobaan}`);
         break;}}
         console.log ()
