@@ -61,7 +61,6 @@ function makanMakanan(data){
 
     for(let penduduk of data){
         if (penduduk.status !== "aktif") {
-            continue;
         }
 
         if(penduduk.makanan > 0){
