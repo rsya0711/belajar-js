@@ -57,7 +57,7 @@ const bank = {
             console.log(
                 orang.nama +
                 " - Saldo: Rp" +
-                orang.saldo
+                penduduk.saldo
             );
         }
     }
