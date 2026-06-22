@@ -53,12 +53,12 @@ for(const perubahan of kata){
     let totalPanjang = 0;
 
     for(const perubahan of kata){
-        const kataBersih = perubahan.replace(".","");
+        const perubahanKata = perubahan.replace(".","");
 
-        totalPanjang = totalPanjang + kataBersih.length;
+        totalPanjang = totalPanjang + perubahanKata.length;
 
-        if(kataBersih.length > kataTerpanjang.length){
-            kataTerpanjang = kataBersih;
+        if(perubahanKata.length > kataTerpanjang.length){
+            kataTerpanjang = perubahanKata;
         }
     }
 
