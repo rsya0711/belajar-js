@@ -84,5 +84,5 @@ console.log ("");
 const terbaik = hasil[0];
 console.log("terbaik");
 
-console.log(terbaik.nama + " dengan nilai " + terbaik.rataRata.toFixed(0)
+console.log(terbaik.nama + " dengan rata rata nilai " + terbaik.rataRata.toFixed(0)
 );
