@@ -19,10 +19,7 @@ const peserta = [
 }
 ];
 
-
 const hasil = [];
-
-
 
 function hitungUmur(tanggalLahir){
 
