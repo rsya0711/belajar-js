@@ -9,8 +9,8 @@ function sistem() {
     if (true) {
         let score = 90; 
         console.log (score);
+    
     }
-
     // function tampil() {
     //     // console.log(score); //(tidak bisa dipanggil, karena sudah beda scope)
     // }
