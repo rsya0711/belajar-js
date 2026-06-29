@@ -1,0 +1,34 @@
+body{
+    font-family: Arial;
+    color:rgb(236, 56, 56);
+    background-image: url("bckrn.jpg");
+    background-size: cover;
+}
+
+.isi{
+    width:300px;
+    margin:100px auto;
+    text-align:center;
+}
+
+input{
+    padding:10px;
+    border-radius:5px;
+    box-shadow: 5px 5px 5px black;
+}
+
+button{
+    padding:10px;
+    cursor:pointer;
+    border-radius:5px;
+    box-shadow: 5px 5px 5px black;
+}
+
+#hasil{
+    margin-top:20px;
+    background:white;
+    color:black;
+    padding:20px;
+    border-radius:10px;
+    box-shadow: 5px 5px 5px black;
+}
